@@ -1,6 +1,41 @@
-# WoW-3.3.5a-Data
-Repo contains the data files for SylCore emulator.
+# WoW-3.3.5a-Data  
+This repository contains the **data files required for the SylCore emulator**, as well as optional quality-of-life and restructured DBC files for developers.
 
+---
 
-SylCore has a few changes in the data files, where some have been cleaned up to be easier to work with, one of those is the "CharStartOutfit", which has outfits for all classes + races, meaning you don't have to add those outfits yourself.
-That file is **NOT** included in the data release. If you want that one, you will have to download it on its own; the name of it is "CharStartOutfit-Reconstructed"
+## 📦 What This Repository Contains
+
+### ✔️ Required Data Files (Default SylCore Setup)
+These are included in the main Data Release and are necessary for any standard SylCore installation:
+
+- **DBC files**
+- **Maps**
+- **VMaps**
+- **MMAPS (Movement Maps)**
+- **Cameras**
+- Other extracted data required by SylCore
+
+You can download the full required data package under the **Releases** section.
+
+---
+
+## 🛠️ Optional Custom DBC Files (QoL / Restructured)
+These files are *not required* for a default SylCore setup.  
+They are intended for developers or server owners who want cleaner file structures, additional customization options, or expanded DBC functionality.
+
+Current custom DBC files include:
+
+- **CharStartOutfit** → [Download](https://github.com/SylCore/WoW-3.3.5a-Data/releases/tag/Custom-DBC)
+
+More optional DBCs will be added over time. See the Release notes for file descriptions and usage instructions.
+
+---
+
+## 📝 Notes
+- Required files and optional custom DBCs are kept **separate** to avoid confusion.  
+- Each custom DBC release contains its own documentation.  
+- You are free to use these files in any SylCore-based project.
+
+---
+
+If you find issues or want to contribute improvements, feel free to open an issue or pull request.
