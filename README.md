@@ -15,7 +15,8 @@ These are included in the main Data Release and are necessary for any standard S
 - **Cameras**
 - Other extracted data required by SylCore
 
-You can download the full required data package under the **Releases** section.
+You can download the full required data package under the **Releases** section, or to get the newest, click the link below.
+- **SylCore Data** -> [Download](https://github.com/SylCore/WoW-3.3.5a-Data/releases/tag/Release)
 
 ---
 
