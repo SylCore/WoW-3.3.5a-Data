@@ -26,7 +26,8 @@ They are intended for developers or server owners who want cleaner file structur
 
 Current custom DBC files include:
 
-- **CharStartOutfit** → [Download](https://github.com/SylCore/WoW-3.3.5a-Data/releases/tag/Custom-DBC)
+- **CharStartOutfit** → [Download](https://github.com/SylCore/WoW-3.3.5a-Data/releases/tag/Custom-CharStartOutfit)
+- **CharBaseInfo**    → [Download](https://github.com/SylCore/WoW-3.3.5a-Data/releases/tag/Custom-CharBaseInfo)
 
 More optional DBCs will be added over time. See the Release notes for file descriptions and usage instructions.
 
